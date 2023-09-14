@@ -1,10 +1,11 @@
 <h3 align = "center"> 🌸 Hi there, this is Maya's profile 🌸 </h3>
 
-#### I'm CS student at FCAI_CU👩‍💻
+#### About me:
+I'm CS student at FCAI_CU👩‍💻
 #### Contact with me 📨:
-##### 🔹 [Linkedin](https://www.linkedin.com/in/maya-fouad-3bb4b9226/)   
-##### 🔹 [Gmail](mayafouad2004@gmail.com)    
-##### 🔹 [Codeforces](https://codeforces.com/profile/mayafouad)
+🔹 [Linkedin](https://www.linkedin.com/in/maya-fouad-3bb4b9226/)   
+🔹 [Gmail](mayafouad2004@gmail.com)    
+🔹 [Codeforces](https://codeforces.com/profile/mayafouad)
 
 <!--
 **mayafouad/mayafouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
