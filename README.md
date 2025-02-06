@@ -1,23 +1,36 @@
-<h3 align = "center"> 🌸 Hi, this is Maya's profile. 🌸 </h3>
+<h3 align="center">🌸 Hi, I'm Maya Fouad! 🌸</h3>  
+<p align="center">  
+   <b>Passionate Computer Science Student | Problem Solver | Backend Developer</b>  
+</p>  
 
-#### - About me:
-   I'm CS student at FCAI_CU👩‍💻
-#### - Contact with me 📨:
-🔹 [Linkedin](https://www.linkedin.com/in/maya-fouad-3bb4b9226/)   
-🔹 [Gmail](mayafouad2004@gmail.com)    
-🔹 [Codeforces](https://codeforces.com/profile/mayafouad)
+---
 
-<!--
-**mayafouad/mayafouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me  
+- 🎓 **Computer Science Student** at **FCAI, Cairo University**  
+- 💡 Interested in **Backend Development**, **Algorithms**, and **Software Engineering**  
+- ⚡ Always eager to learn **new technologies**, **design patterns**, and **best coding practices**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Tech Stack  
+- **Languages**: Java, C++, Python, JavaScript  
+- **Backend**: Spring Boot, Django
+- **Frontend**: HTML, CSS, JavaScript   
+- **Databases**: MySQL, SQL Server 
+- **Other Tools**: Git, VSC, Linux, VirtualBox  
+
+---
+
+### 🏆 Competitive Programming  
+- **Codeforces**: [mayafouad](https://codeforces.com/profile/mayafouad)  
+- **Leetcode & AtCoder**: [mayafouad](https://leetcode.com/u/mayafouad/)  
+- **Focus**: Data Structures, Algorithms, and Optimization  
+
+---
+
+### 📫 Connect with Me  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/maya-fouad-3bb4b9226/)**  
+- 📧 **[Email](mailto:mayafouad2004@gmail.com)**  
+---
+
+✨ _Always open to exciting projects, collaborations, and new opportunities!_ 🚀  
