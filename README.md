@@ -24,7 +24,6 @@
 ### 🏆 Competitive Programming  
 - **Codeforces**: [mayafouad](https://codeforces.com/profile/mayafouad)  
 - **Leetcode**: [mayafouad](https://leetcode.com/u/mayafouad/)  
-- **Focus**: Data Structures, Algorithms, and Optimization  
 
 ---
 
