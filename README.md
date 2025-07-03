@@ -7,13 +7,12 @@
 
 ### 👩‍💻 About Me  
 - 🎓 **Computer Science Student** at **FCAI, Cairo University**  
-- 💡 Interested in **Backend Development**, **Algorithms**, and **Software Engineering**  
-- ⚡ Always eager to learn **new technologies**, **design patterns**, and **best coding practices**  
+- 💡 Interested in **Backend Development** and **Software Engineering**  
 
 ---
 
 ### 🔨 Tech Stack  
-- **Languages**: Java, C++, Python, JavaScript  
+- **Languages**: Java, C++, Python.
 - **Backend**: Spring Boot, Django
 - **Frontend**: HTML, CSS, JavaScript   
 - **Databases**: MySQL, SQL Server 
