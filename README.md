@@ -1,4 +1,4 @@
-<h3 align="center">🌸 Hi, I'm Maya Fouad! 🌸</h3>  
+<h2 align="center">🌸 Hi, I'm Maya Fouad! 🌸</h2>  
 <p align="center">  
    <b>Passionate Computer Science Student | Problem Solver | Backend Developer</b>  
 </p>  
