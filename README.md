@@ -3,10 +3,6 @@
    <b>Passionate Computer Science Student | Problem Solver | Backend Developer</b>  
 </p>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayafouad&color=ff69b4&style=for-the-badge" alt="Profile views" />
-</div>
-
 ---
 
 ### 👩‍💻 About Me  
